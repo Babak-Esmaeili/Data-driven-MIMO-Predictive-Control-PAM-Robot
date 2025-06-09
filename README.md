@@ -28,8 +28,7 @@ This work proposes a robust data-driven control strategy for rigid robotic manip
 
 ## 🛠 Requirements
 
-- MATLAB R2019b or newer  
-- No additional toolboxes required  
+- MATLAB R2019b or newer
 
 ---
 
@@ -62,13 +61,14 @@ For questions or collaboration, contact:
 If you use this repository, please cite:
 
 ```bibtex
-@inproceedings{esmaeili2019mimo,
+@inproceedings{esmaeili2019data,
   title={Data-driven MIMO discrete-time predictive model-free adaptive integral terminal sliding mode controller design for robotic manipulators driven by pneumatic artificial muscles},
   author={Esmaeili, Babak and Baradarannia, Mahdi and Salim, Mina and Farzamnia, Ali},
-  booktitle={7th RSI International Conference on Robotics and Mechatronics (ICRoM)},
+  booktitle={2019 6th international conference on control, instrumentation and automation (ICCIA)},
+  pages={1--8},
   year={2019},
   organization={IEEE},
-  doi={10.1109/ICRoM48714.2019.9071819}
+  doi={10.1109/ICCIA49288.2019.9030938}
 }
 ```
 
